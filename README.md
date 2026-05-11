@@ -1,78 +1,112 @@
-<h1 align="center">🌐 Web Development Showcase</h1>
+# 🌐 HTML, CSS & JS Projects
 
-<p align="center">
-  <em>A growing collection of web projects built while strengthening core web development skills.</em><br>
-  <strong>Clean structure • Modern design • Consistent learning</strong>
-</p>
+A collection of frontend projects built while learning core web development fundamentals.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Developer-Ashish%20Jodha-orange?style=for-the-badge" />
-</p>
+These projects focus on responsive layouts, UI design, and JavaScript interactivity.
 
 ---
 
-## 📖 Overview
+# 🎵 Spotify Clone
 
-This repository highlights my journey in **Web Development**, starting from core fundamentals and moving towards more structured, interactive projects.  
-Each project in this collection reflects:
-
-- A focus on **clarity** and **clean design**
-- A commitment to **understanding fundamentals deeply**
-- A step-by-step progression toward industry-level development
+A responsive Spotify web player UI built using pure HTML and CSS.
 
 ---
 
-## 🧠 Core Learning Areas
+## ✨ About the Project
 
-### 🔹 **Frontend Foundations**
-- Structuring pages with **HTML**
-- Creating responsive layouts with **CSS**
-- Writing clean, readable code
+This project replicates the user interface of the Spotify web player.
 
-### 🔹 **Interactive Web (Coming Soon)**
-- Bringing pages to life using **JavaScript**
-- DOM manipulation, events, and dynamic components
-
-### 🔹 **Future Roadmap**
-- Front-end frameworks: **React**  
-- Server-side basics: **Node.js**  
-- Databases: **MongoDB**  
-- Full-stack project structure  
+It was built using HTML and CSS while focusing on layout structure, styling, and responsive design.
 
 ---
 
-## 🧭 Goals of This Repository
+## 🚀 Features
 
-- Practice clean and maintainable UI structure  
-- Build real-world layout patterns  
-- Improve problem-solving through hands-on projects  
-- Develop discipline and consistency in learning  
-
----
-
-## 📌 How to Use This Repo
-
-You can explore each folder to view:
-
-- Source code 
-
-Feel free to use it as inspiration, reference, or learning material.
+* Responsive layout for desktop and mobile
+* Clean and organized dark-themed UI
+* Functional sidebar, main content, and player bar layout
+* Smooth hover effects and transitions
 
 ---
 
-## 📬 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashish-jodha-2065a5327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ashishjodha.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ashish-jodha"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+* HTML5
+* CSS3
 
 ---
 
-<p align="center">
-  <em>Always learning. Always improving.  
-  This repo grows as I grow.</em>
-</p>
+# 🎮 Simon Says Game
+
+A minimal and interactive memory game built using HTML, CSS, and JavaScript.
+
+The project focuses on clean UI, simple game logic, and frontend fundamentals.
+
+---
+
+## ✨ Introduction
+
+Simon Says is a memory-based game where the system generates a sequence of colors and the player must reproduce the sequence correctly.
+
+With every successful round, the sequence becomes longer and more difficult.
+
+---
+
+## 🚀 Features
+
+* Start the game using keyboard input
+* Visual feedback for both system and user actions
+* Progressive level-based difficulty
+* Automatic game-over detection with score display
+* Clean and minimal user interface
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+---
+
+## 📂 Repository Structure
+
+```text
+html-css-js-projects/
+├── 01-Spotify-Clone/
+│   ├── assets/
+│   ├── index.html
+│   └── style.css
+│
+├── 02-Simon-Game/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/ashish-jodha/html-css-js-projects.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd html-css-js-projects
+```
+
+Open any project folder and run the `index.html` file in your browser.
+
+---
+
+## 👨‍💻 Designed & Built By
+
+Ashish Jodha
