@@ -74,12 +74,12 @@ With every successful round, the sequence becomes longer and more difficult.
 
 ```text
 html-css-js-projects/
-├── 01-Spotify-Clone/
+├── spotify-clone/
 │   ├── assets/
 │   ├── index.html
 │   └── style.css
 │
-├── 02-Simon-Game/
+├── simon-says-game/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
